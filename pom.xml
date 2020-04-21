@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.design</groupId>
-    <artifactId>hellodesign</artifactId>
+    <artifactId>design-mode-train</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hellodesign</name>
+    <name>design-mode-train</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
